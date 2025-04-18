@@ -1,1 +1,1 @@
-# Hospital_Queue_System_in_C
+#  Hospital Queue System Using Data Structure in C
